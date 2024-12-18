@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/node": "^22.10.2",
+    "neverthrow": "^8.1.1",
+    "tsx": "^4.19.2"
+  }
+}
